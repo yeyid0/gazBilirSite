@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-04-24",
+  "currency": "TRY",
+  "prices": {
+    "benzin": 63.00,
+    "dizel": 70.00,
+    "lpg": 35.00,
+    "elektrik": 5.20
+  },
+  "unit": "TL/Litre",
+  "electricUnit": "TL/kWh",
+  "source": "EPDK Ortalama Fiyatları"
+}

@@ -1,0 +1,83 @@
+.adWrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border-radius: var(--r-lg);
+  background: rgba(255, 255, 255, 0.01);
+  border: 1px dashed var(--border-medium);
+  margin: var(--sp-8) 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--dur-slow) var(--ease);
+}
+
+.adWrapper:hover {
+  border-color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* Formats */
+.horizontal {
+  min-height: 100px;
+}
+
+.rectangle {
+  min-height: 250px;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vertical {
+  min-height: 600px;
+  max-width: 160px;
+}
+
+/* Placeholder Styling */
+.placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 10px;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  padding: 4px 8px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: var(--r-sm);
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 2;
+  border: 1px solid var(--border-subtle);
+}
+
+/* Skeleton animation */
+.skeletonPulse {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: var(--gradient-accent-soft);
+  opacity: 0.2;
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.1;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 0.3;
+    transform: scale(1.2);
+  }
+}

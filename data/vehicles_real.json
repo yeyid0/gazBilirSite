@@ -1,0 +1,5079 @@
+{
+  "brands": {
+    "renault": {
+      "name": "Renault",
+      "models": {
+        "megane": {
+          "name": "Megane",
+          "segment": "C",
+          "years": {
+            "2016": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 110
+              }
+            },
+            "2017": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 110
+              }
+            },
+            "2018": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 110
+              }
+            },
+            "2019": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 110
+              }
+            },
+            "2020": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 110
+              }
+            },
+            "2021": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 115
+              }
+            },
+            "2022": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 115
+              }
+            },
+            "2023": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 115
+              }
+            },
+            "2024": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 115
+              }
+            }
+          }
+        },
+        "clio": {
+          "name": "Clio",
+          "segment": "B",
+          "years": {
+            "2015": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.3
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2016": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.3
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2017": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.3
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2018": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.3
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2019": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.3
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5,
+                "hibrit": 3.6
+              },
+              "hp": {
+                "benzin": 90,
+                "hibrit": 140
+              }
+            },
+            "2021": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5,
+                "hibrit": 3.6
+              },
+              "hp": {
+                "benzin": 90,
+                "hibrit": 140
+              }
+            },
+            "2022": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5,
+                "hibrit": 3.6
+              },
+              "hp": {
+                "benzin": 90,
+                "hibrit": 140
+              }
+            },
+            "2023": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5,
+                "hibrit": 3.6
+              },
+              "hp": {
+                "benzin": 90,
+                "hibrit": 140
+              }
+            },
+            "2024": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5,
+                "hibrit": 3.6
+              },
+              "hp": {
+                "benzin": 90,
+                "hibrit": 140
+              }
+            }
+          }
+        },
+        "austral": {
+          "name": "Austral",
+          "segment": "C-SUV",
+          "years": {
+            "2023": {
+              "engineCC": 1332,
+              "fuelTypes": [
+                "hibrit",
+                "benzin"
+              ],
+              "consumption": {
+                "hibrit": 4.6,
+                "benzin": 6.2
+              },
+              "hp": {
+                "hibrit": 200,
+                "benzin": 160
+              }
+            },
+            "2024": {
+              "engineCC": 1332,
+              "fuelTypes": [
+                "hibrit",
+                "benzin"
+              ],
+              "consumption": {
+                "hibrit": 4.6,
+                "benzin": 6.2
+              },
+              "hp": {
+                "hibrit": 200,
+                "benzin": 160
+              }
+            }
+          }
+        }
+      }
+    },
+    "fiat": {
+      "name": "Fiat",
+      "models": {
+        "egea": {
+          "name": "Egea",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2016": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2017": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2018": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2019": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2020": {
+              "engineCC": 1368,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.7,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 95
+              }
+            },
+            "2021": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5,
+                "hibrit": 5
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 130,
+                "hibrit": 130
+              }
+            },
+            "2022": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5,
+                "hibrit": 5
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 130,
+                "hibrit": 130
+              }
+            },
+            "2023": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5,
+                "hibrit": 5
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 130,
+                "hibrit": 130
+              }
+            },
+            "2024": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5,
+                "hibrit": 5
+              },
+              "hp": {
+                "benzin": 95,
+                "dizel": 130,
+                "hibrit": 130
+              }
+            }
+          }
+        },
+        "500x": {
+          "name": "500X",
+          "segment": "B-SUV",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 140,
+                "dizel": 120
+              }
+            },
+            "2021": {
+              "engineCC": 1469,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.4
+              },
+              "hp": {
+                "hibrit": 130
+              }
+            },
+            "2022": {
+              "engineCC": 1469,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.4
+              },
+              "hp": {
+                "hibrit": 130
+              }
+            },
+            "2023": {
+              "engineCC": 1469,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.4
+              },
+              "hp": {
+                "hibrit": 130
+              }
+            },
+            "2024": {
+              "engineCC": 1469,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.4
+              },
+              "hp": {
+                "hibrit": 130
+              }
+            }
+          }
+        }
+      }
+    },
+    "toyota": {
+      "name": "Toyota",
+      "models": {
+        "corolla": {
+          "name": "Corolla",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 90
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 90
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 90
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 90
+              }
+            },
+            "2019": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            },
+            "2020": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            },
+            "2021": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            },
+            "2022": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            },
+            "2023": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            },
+            "2024": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.8,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 125,
+                "hibrit": 122
+              }
+            }
+          }
+        },
+        "chr": {
+          "name": "C-HR",
+          "segment": "C-SUV",
+          "years": {
+            "2016": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2017": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2018": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2019": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2020": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2021": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2022": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2023": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.9,
+                "hibrit": 3.8
+              },
+              "hp": {
+                "benzin": 116,
+                "hibrit": 122
+              }
+            },
+            "2024": {
+              "engineCC": 1798,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 4.7
+              },
+              "hp": {
+                "hibrit": 140
+              }
+            }
+          }
+        }
+      }
+    },
+    "volkswagen": {
+      "name": "Volkswagen",
+      "models": {
+        "golf": {
+          "name": "Golf",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.2,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 115
+              }
+            },
+            "2021": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 110,
+                "hibrit": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 110,
+                "hibrit": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 110,
+                "hibrit": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 110,
+                "hibrit": 150
+              }
+            }
+          }
+        },
+        "passat": {
+          "name": "Passat",
+          "segment": "D",
+          "years": {
+            "2015": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2016": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2017": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2018": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2019": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2020": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2021": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            }
+          }
+        },
+        "tiguan": {
+          "name": "Tiguan",
+          "segment": "C-SUV",
+          "years": {
+            "2016": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2017": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2018": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2019": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2020": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2021": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.2
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            }
+          }
+        }
+      }
+    },
+    "honda": {
+      "name": "Honda",
+      "models": {
+        "civic": {
+          "name": "Civic",
+          "segment": "C",
+          "years": {
+            "2016": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2017": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2018": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2019": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2020": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2021": {
+              "engineCC": 1597,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "dizel": 3.5,
+                "lpg": 7.5
+              },
+              "hp": {
+                "benzin": 182,
+                "dizel": 120,
+                "lpg": 125
+              }
+            },
+            "2022": {
+              "engineCC": 1993,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "hibrit": 4.7
+              },
+              "hp": {
+                "benzin": 129,
+                "hibrit": 143
+              }
+            },
+            "2023": {
+              "engineCC": 1993,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "hibrit": 4.7
+              },
+              "hp": {
+                "benzin": 129,
+                "hibrit": 143
+              }
+            },
+            "2024": {
+              "engineCC": 1993,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "hibrit": 4.7
+              },
+              "hp": {
+                "benzin": 129,
+                "hibrit": 143
+              }
+            }
+          }
+        }
+      }
+    },
+    "peugeot": {
+      "name": "Peugeot",
+      "models": {
+        "208": {
+          "name": "208",
+          "segment": "B",
+          "years": {
+            "2019": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            },
+            "2020": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            },
+            "2021": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            },
+            "2022": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            },
+            "2023": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            },
+            "2024": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.3,
+                "dizel": 3.2
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 100
+              }
+            }
+          }
+        },
+        "3008": {
+          "name": "3008",
+          "segment": "C-SUV",
+          "years": {
+            "2016": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2017": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2018": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2019": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2020": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2021": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2022": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2023": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2024": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.5
+              },
+              "hp": {
+                "hibrit": 136
+              }
+            }
+          }
+        }
+      }
+    },
+    "togg": {
+      "name": "Togg",
+      "models": {
+        "t10x": {
+          "name": "T10X",
+          "segment": "C-SUV",
+          "years": {
+            "2023": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 16.7
+              },
+              "hp": {
+                "elektrik": 218
+              }
+            },
+            "2024": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 16.7
+              },
+              "hp": {
+                "elektrik": 218
+              }
+            }
+          }
+        }
+      }
+    },
+    "tesla": {
+      "name": "Tesla",
+      "models": {
+        "modely": {
+          "name": "Model Y",
+          "segment": "D-SUV",
+          "years": {
+            "2021": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 15.7
+              },
+              "hp": {
+                "elektrik": 299
+              }
+            },
+            "2022": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 15.7
+              },
+              "hp": {
+                "elektrik": 299
+              }
+            },
+            "2023": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 15.7
+              },
+              "hp": {
+                "elektrik": 299
+              }
+            },
+            "2024": {
+              "engineCC": 0,
+              "fuelTypes": [
+                "elektrik"
+              ],
+              "consumption": {
+                "elektrik": 15.7
+              },
+              "hp": {
+                "elektrik": 299
+              }
+            }
+          }
+        }
+      }
+    },
+    "mercedes": {
+      "name": "Mercedes-Benz",
+      "models": {
+        "c_class": {
+          "name": "C Serisi",
+          "segment": "D",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 156,
+                "dizel": 136
+              }
+            },
+            "2021": {
+              "engineCC": 1496,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.2
+              },
+              "hp": {
+                "hibrit": 204
+              }
+            },
+            "2022": {
+              "engineCC": 1496,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.2
+              },
+              "hp": {
+                "hibrit": 204
+              }
+            },
+            "2023": {
+              "engineCC": 1496,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.2
+              },
+              "hp": {
+                "hibrit": 204
+              }
+            },
+            "2024": {
+              "engineCC": 1496,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.2
+              },
+              "hp": {
+                "hibrit": 204
+              }
+            }
+          }
+        },
+        "e_class": {
+          "name": "E Serisi",
+          "segment": "E",
+          "years": {
+            "2016": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2017": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2018": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2019": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2020": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2021": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2022": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2023": {
+              "engineCC": 1991,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.3
+              },
+              "hp": {
+                "benzin": 184,
+                "dizel": 194
+              }
+            },
+            "2024": {
+              "engineCC": 1999,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 6.5
+              },
+              "hp": {
+                "hibrit": 204
+              }
+            }
+          }
+        }
+      }
+    },
+    "bmw": {
+      "name": "BMW",
+      "models": {
+        "3_series": {
+          "name": "3 Serisi",
+          "segment": "D",
+          "years": {
+            "2015": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2016": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2017": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2018": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2019": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            },
+            "2020": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            },
+            "2021": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            },
+            "2022": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            },
+            "2023": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            },
+            "2024": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6,
+                "hibrit": 1.6
+              },
+              "hp": {
+                "benzin": 170,
+                "hibrit": 292
+              }
+            }
+          }
+        },
+        "5_series": {
+          "name": "5 Serisi",
+          "segment": "E",
+          "years": {
+            "2017": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2018": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2019": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2020": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2021": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2022": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2023": {
+              "engineCC": 1995,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.5,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 170,
+                "dizel": 190
+              }
+            },
+            "2024": {
+              "engineCC": 1998,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.8
+              },
+              "hp": {
+                "hibrit": 208
+              }
+            }
+          }
+        }
+      }
+    },
+    "audi": {
+      "name": "Audi",
+      "models": {
+        "a3": {
+          "name": "A3",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.7,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 110
+              }
+            },
+            "2021": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.8
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.8
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.8
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.8
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            }
+          }
+        },
+        "a4": {
+          "name": "A4",
+          "segment": "D",
+          "years": {
+            "2015": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2016": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2017": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2018": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2019": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2020": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2021": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2022": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2023": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            },
+            "2024": {
+              "engineCC": 1984,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 190,
+                "dizel": 190
+              }
+            }
+          }
+        }
+      }
+    },
+    "dacia": {
+      "name": "Dacia",
+      "models": {
+        "duster": {
+          "name": "Duster",
+          "segment": "C-SUV",
+          "years": {
+            "2015": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2016": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2017": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2018": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2019": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2020": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2021": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2022": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2023": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 6.1,
+                "dizel": 4.4,
+                "lpg": 6.8
+              },
+              "hp": {
+                "benzin": 125,
+                "dizel": 110,
+                "lpg": 100
+              }
+            },
+            "2024": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "hibrit",
+                "lpg"
+              ],
+              "consumption": {
+                "hibrit": 5,
+                "lpg": 6.5
+              },
+              "hp": {
+                "hibrit": 140,
+                "lpg": 100
+              }
+            }
+          }
+        },
+        "sandero": {
+          "name": "Sandero",
+          "segment": "B",
+          "years": {
+            "2015": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2016": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2017": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2018": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2019": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2020": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 3.5
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 90
+              }
+            },
+            "2021": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "lpg": 6.5
+              },
+              "hp": {
+                "benzin": 90,
+                "lpg": 100
+              }
+            },
+            "2022": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "lpg": 6.5
+              },
+              "hp": {
+                "benzin": 90,
+                "lpg": 100
+              }
+            },
+            "2023": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "lpg": 6.5
+              },
+              "hp": {
+                "benzin": 90,
+                "lpg": 100
+              }
+            },
+            "2024": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin",
+                "lpg"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "lpg": 6.5
+              },
+              "hp": {
+                "benzin": 90,
+                "lpg": 100
+              }
+            }
+          }
+        }
+      }
+    },
+    "hyundai": {
+      "name": "Hyundai",
+      "models": {
+        "tucson": {
+          "name": "Tucson",
+          "segment": "C-SUV",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 7.1,
+                "dizel": 4.8
+              },
+              "hp": {
+                "benzin": 177,
+                "dizel": 136
+              }
+            },
+            "2021": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 180,
+                "hibrit": 230
+              }
+            },
+            "2022": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 180,
+                "hibrit": 230
+              }
+            },
+            "2023": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 180,
+                "hibrit": 230
+              }
+            },
+            "2024": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.7
+              },
+              "hp": {
+                "benzin": 180,
+                "hibrit": 230
+              }
+            }
+          }
+        },
+        "i20": {
+          "name": "i20",
+          "segment": "B",
+          "years": {
+            "2015": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2016": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2017": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2018": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2019": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2020": {
+              "engineCC": 1396,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.3,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 100,
+                "dizel": 90
+              }
+            },
+            "2021": {
+              "engineCC": 998,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.2
+              },
+              "hp": {
+                "benzin": 100
+              }
+            },
+            "2022": {
+              "engineCC": 998,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.2
+              },
+              "hp": {
+                "benzin": 100
+              }
+            },
+            "2023": {
+              "engineCC": 998,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.2
+              },
+              "hp": {
+                "benzin": 100
+              }
+            },
+            "2024": {
+              "engineCC": 998,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.2
+              },
+              "hp": {
+                "benzin": 100
+              }
+            }
+          }
+        }
+      }
+    },
+    "kia": {
+      "name": "Kia",
+      "models": {
+        "sportage": {
+          "name": "Sportage",
+          "segment": "C-SUV",
+          "years": {
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2021": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.7,
+                "dizel": 4.9
+              },
+              "hp": {
+                "benzin": 132,
+                "dizel": 136
+              }
+            },
+            "2022": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.6
+              },
+              "hp": {
+                "benzin": 150,
+                "hibrit": 230
+              }
+            },
+            "2023": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.6
+              },
+              "hp": {
+                "benzin": 150,
+                "hibrit": 230
+              }
+            },
+            "2024": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 6.6,
+                "hibrit": 5.6
+              },
+              "hp": {
+                "benzin": 150,
+                "hibrit": 230
+              }
+            }
+          }
+        }
+      }
+    },
+    "nissan": {
+      "name": "Nissan",
+      "models": {
+        "qashqai": {
+          "name": "Qashqai",
+          "segment": "C-SUV",
+          "years": {
+            "2015": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2016": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2017": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2018": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2019": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2020": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2021": {
+              "engineCC": 1461,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.6,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 110
+              }
+            },
+            "2022": {
+              "engineCC": 1497,
+              "fuelTypes": [
+                "hibrit",
+                "elektrik"
+              ],
+              "consumption": {
+                "hibrit": 6.4,
+                "elektrik": 5.3
+              },
+              "hp": {
+                "hibrit": 158,
+                "elektrik": 190
+              }
+            },
+            "2023": {
+              "engineCC": 1497,
+              "fuelTypes": [
+                "hibrit",
+                "elektrik"
+              ],
+              "consumption": {
+                "hibrit": 6.4,
+                "elektrik": 5.3
+              },
+              "hp": {
+                "hibrit": 158,
+                "elektrik": 190
+              }
+            },
+            "2024": {
+              "engineCC": 1497,
+              "fuelTypes": [
+                "hibrit",
+                "elektrik"
+              ],
+              "consumption": {
+                "hibrit": 6.4,
+                "elektrik": 5.3
+              },
+              "hp": {
+                "hibrit": 158,
+                "elektrik": 190
+              }
+            }
+          }
+        }
+      }
+    },
+    "opel": {
+      "name": "Opel",
+      "models": {
+        "astra": {
+          "name": "Astra",
+          "segment": "C",
+          "years": {
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2021": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 136
+              }
+            },
+            "2022": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.6
+              },
+              "hp": {
+                "benzin": 130
+              }
+            },
+            "2023": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.6
+              },
+              "hp": {
+                "benzin": 130
+              }
+            },
+            "2024": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.6
+              },
+              "hp": {
+                "benzin": 130
+              }
+            }
+          }
+        },
+        "corsa": {
+          "name": "Corsa",
+          "segment": "B",
+          "years": {
+            "2015": {
+              "engineCC": 1398,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 75
+              }
+            },
+            "2016": {
+              "engineCC": 1398,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 75
+              }
+            },
+            "2017": {
+              "engineCC": 1398,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 75
+              }
+            },
+            "2018": {
+              "engineCC": 1398,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 75
+              }
+            },
+            "2019": {
+              "engineCC": 1398,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 90,
+                "dizel": 75
+              }
+            },
+            "2020": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "elektrik": 15.6
+              },
+              "hp": {
+                "benzin": 100,
+                "elektrik": 136
+              }
+            },
+            "2021": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "elektrik": 15.6
+              },
+              "hp": {
+                "benzin": 100,
+                "elektrik": 136
+              }
+            },
+            "2022": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "elektrik": 15.6
+              },
+              "hp": {
+                "benzin": 100,
+                "elektrik": 136
+              }
+            },
+            "2023": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "elektrik": 15.6
+              },
+              "hp": {
+                "benzin": 100,
+                "elektrik": 136
+              }
+            },
+            "2024": {
+              "engineCC": 1199,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "elektrik": 15.6
+              },
+              "hp": {
+                "benzin": 100,
+                "elektrik": 136
+              }
+            }
+          }
+        }
+      }
+    },
+    "skoda": {
+      "name": "Skoda",
+      "models": {
+        "octavia": {
+          "name": "Octavia",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.6,
+                "dizel": 3.9
+              },
+              "hp": {
+                "benzin": 115,
+                "dizel": 115
+              }
+            },
+            "2021": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.1
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.1
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.1
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.1
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            }
+          }
+        },
+        "superb": {
+          "name": "Superb",
+          "segment": "D",
+          "years": {
+            "2015": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2016": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2017": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2018": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2019": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2020": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2021": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1968,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.4,
+                "dizel": 4.5
+              },
+              "hp": {
+                "benzin": 150,
+                "dizel": 150
+              }
+            }
+          }
+        }
+      }
+    },
+    "volvo": {
+      "name": "Volvo",
+      "models": {
+        "xc90": {
+          "name": "XC90",
+          "segment": "E-SUV",
+          "years": {
+            "2015": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2016": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2017": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2018": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2019": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2020": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2021": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2022": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2023": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            },
+            "2024": {
+              "engineCC": 1969,
+              "fuelTypes": [
+                "benzin",
+                "dizel",
+                "hibrit"
+              ],
+              "consumption": {
+                "benzin": 8.5,
+                "dizel": 5.7,
+                "hibrit": 1.2
+              },
+              "hp": {
+                "benzin": 250,
+                "dizel": 235,
+                "hibrit": 455
+              }
+            }
+          }
+        },
+        "xc40": {
+          "name": "XC40",
+          "segment": "C-SUV",
+          "years": {
+            "2018": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2019": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2020": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2021": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2022": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2023": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            },
+            "2024": {
+              "engineCC": 1477,
+              "fuelTypes": [
+                "benzin",
+                "elektrik"
+              ],
+              "consumption": {
+                "benzin": 6.9,
+                "elektrik": 18.6
+              },
+              "hp": {
+                "benzin": 129,
+                "elektrik": 231
+              }
+            }
+          }
+        }
+      }
+    },
+    "seat": {
+      "name": "Seat",
+      "models": {
+        "leon": {
+          "name": "Leon",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2016": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2017": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2018": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2019": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2020": {
+              "engineCC": 1598,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 4.9,
+                "dizel": 4
+              },
+              "hp": {
+                "benzin": 110,
+                "dizel": 115
+              }
+            },
+            "2021": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.9
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2022": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.9
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2023": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.9
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            },
+            "2024": {
+              "engineCC": 1498,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 5.9
+              },
+              "hp": {
+                "hibrit": 150
+              }
+            }
+          }
+        }
+      }
+    },
+    "citroen": {
+      "name": "Citroen",
+      "models": {
+        "c5_aircross": {
+          "name": "C5 Aircross",
+          "segment": "C-SUV",
+          "years": {
+            "2019": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2020": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2021": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2022": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2023": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            },
+            "2024": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 6.2,
+                "dizel": 4.1
+              },
+              "hp": {
+                "benzin": 130,
+                "dizel": 130
+              }
+            }
+          }
+        }
+      }
+    },
+    "mazda": {
+      "name": "Mazda",
+      "models": {
+        "3": {
+          "name": "Mazda3",
+          "segment": "C",
+          "years": {
+            "2015": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 120,
+                "dizel": 105
+              }
+            },
+            "2016": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 120,
+                "dizel": 105
+              }
+            },
+            "2017": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 120,
+                "dizel": 105
+              }
+            },
+            "2018": {
+              "engineCC": 1499,
+              "fuelTypes": [
+                "benzin",
+                "dizel"
+              ],
+              "consumption": {
+                "benzin": 5.1,
+                "dizel": 3.8
+              },
+              "hp": {
+                "benzin": 120,
+                "dizel": 105
+              }
+            }
+          }
+        }
+      }
+    },
+    "mitsubishi": {
+      "name": "Mitsubishi",
+      "models": {
+        "l200": {
+          "name": "L200",
+          "segment": "Pick-Up",
+          "years": {
+            "2015": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2016": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2017": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2018": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2019": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2020": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2021": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2022": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2023": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            },
+            "2024": {
+              "engineCC": 2268,
+              "fuelTypes": [
+                "dizel"
+              ],
+              "consumption": {
+                "dizel": 7.6
+              },
+              "hp": {
+                "dizel": 150
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

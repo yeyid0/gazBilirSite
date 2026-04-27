@@ -1,0 +1,38 @@
+{
+  "year": 2026,
+  "description": "Zorunlu Trafik Sigortası Ortalama Yıllık Primleri (3. Basamak referans alınmıştır)",
+  "trafficInsurance": {
+    "description": "Zorunlu Trafik Sigortası Ortalama Yıllık Primleri (3. Basamak referans alınmıştır)",
+    "bySegment": {
+      "A": 5000,
+      "B": 5500,
+      "C": 6000,
+      "D": 7000,
+      "E": 8500,
+      "F": 12000,
+      "SUV-B": 6500,
+      "SUV-C": 7500,
+      "SUV-D": 9000,
+      "SUV-E": 13000,
+      "PICKUP": 9500
+    }
+  },
+  "kasko": {
+    "description": "Genişletilmiş Kasko Ortalama Yıllık Primleri (Hasarsızlık indirimi dahil değildir)",
+    "bySegment": {
+      "A": 15000,
+      "B": 18000,
+      "C": 25000,
+      "D": 35000,
+      "E": 55000,
+      "F": 85000,
+      "SUV-B": 22000,
+      "SUV-C": 30000,
+      "SUV-D": 45000,
+      "SUV-E": 70000,
+      "PICKUP": 35000
+    }
+  },
+  "lastUpdated": "2026-04-24",
+  "source": "Ortalama Sigorta Poliçeleri (2026)"
+}

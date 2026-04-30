@@ -1,9 +1,9 @@
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import vehiclesData from '@/data/vehicles.json';
-import { YAKIT_TURLERI, VARSAYILAN_AYLIK_KM } from '@/lib/constants';
+import { YAKIT_TURLERI, VARSAYILAN_AYLIK_KM, getYearData, getYearList } from '@/lib/constants';
 import AdSlot from '@/components/AdSlot/AdSlot';
 import styles from './page.module.css';
 
@@ -25,16 +25,16 @@ export default function HesaplaPage() {
   const [customYakitFiyat, setCustomYakitFiyat] = useState('');
   const [customTuketim, setCustomTuketim] = useState('');
 
-  const brands = useMemo(() => Object.entries(vehiclesData.brands), []);
+  const brands = useMemo(() => Object.entries(vehiclesData.brands).sort((a, b) => a[1].name.localeCompare(b[1].name, 'tr')), []);
 
   const models = useMemo(() => {
     if (!brand) return [];
-    return Object.entries(vehiclesData.brands[brand]?.models || {});
+    return Object.entries(vehiclesData.brands[brand]?.models || {}).sort((a, b) => a[1].name.localeCompare(b[1].name, 'tr'));
   }, [brand]);
 
   const variants = useMemo(() => {
     if (!brand || !model) return [];
-    return Object.entries(vehiclesData.brands[brand]?.models[model]?.variants || {});
+    return Object.entries(vehiclesData.brands[brand]?.models[model]?.variants || {}).sort((a, b) => a[1].name.localeCompare(b[1].name, 'tr'));
   }, [brand, model]);
 
   const hasVariants = variants.length > 0;
@@ -45,9 +45,9 @@ export default function HesaplaPage() {
     if (!m) return [];
     if (hasVariants) {
       if (!variant) return [];
-      return Object.keys(m.variants[variant]?.years || {}).sort((a, b) => b - a);
+      return getYearList(m.variants[variant]?.years);
     }
-    return Object.keys(m.years || {}).sort((a, b) => b - a);
+    return getYearList(m.years);
   }, [brand, model, variant, hasVariants]);
 
   const fuelTypes = useMemo(() => {
@@ -56,9 +56,9 @@ export default function HesaplaPage() {
     if (!m) return [];
     if (hasVariants) {
       if (!variant) return [];
-      return m.variants[variant]?.years[year]?.fuelTypes || [];
+      return getYearData(m.variants[variant]?.years, year)?.fuelTypes || [];
     }
-    return m.years[year]?.fuelTypes || [];
+    return getYearData(m.years, year)?.fuelTypes || [];
   }, [brand, model, year, variant, hasVariants]);
 
   const handleBrand = useCallback((e) => { setBrand(e.target.value); setModel(''); setVariant(''); setYear(''); setFuel(''); }, []);
@@ -66,6 +66,26 @@ export default function HesaplaPage() {
   const handleVariant = useCallback((e) => { setVariant(e.target.value); setYear(''); setFuel(''); }, []);
   const handleYear = useCallback((e) => { setYear(e.target.value); setFuel(''); }, []);
   const handleFuel = useCallback((e) => { setFuel(e.target.value); }, []);
+
+  // Auto-select fuel when only one type is available (e.g. TDI = always diesel)
+  useEffect(() => {
+    if (fuelTypes.length === 1 && fuel !== fuelTypes[0]) setFuel(fuelTypes[0]);
+    if (fuelTypes.length !== 1 && fuel && !fuelTypes.includes(fuel)) setFuel('');
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [fuelTypes]);
+
+  useEffect(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem('gazbilir_last') || 'null');
+      if (!saved) return;
+      if (saved.brand) setBrand(saved.brand);
+      if (saved.model) setModel(saved.model);
+      if (saved.variant) setVariant(saved.variant);
+      if (saved.year) setYear(saved.year);
+      if (saved.fuel) setFuel(saved.fuel);
+      if (saved.km) setKm(saved.km);
+    } catch { }
+  }, []);
 
   const isValid = brand && model && (!hasVariants || variant) && year && fuel && km > 0;
 
@@ -75,18 +95,18 @@ export default function HesaplaPage() {
     variant: variant ? vehiclesData.brands[brand]?.models[model]?.variants[variant]?.name : null,
     year,
     fuel: YAKIT_TURLERI[fuel],
-    consumption: hasVariants 
-      ? vehiclesData.brands[brand]?.models[model]?.variants[variant]?.years[year]?.consumption[fuel]
-      : vehiclesData.brands[brand]?.models[model]?.years[year]?.consumption[fuel],
+    consumption: hasVariants
+      ? getYearData(vehiclesData.brands[brand]?.models[model]?.variants[variant]?.years, year)?.consumption[fuel]
+      : getYearData(vehiclesData.brands[brand]?.models[model]?.years, year)?.consumption[fuel],
   } : null;
 
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!isValid) return;
-    
+
     const params = new URLSearchParams({ marka: brand, model, yil: year, yakit: fuel, km: km.toString() });
     if (variant) params.append('varyant', variant);
-    
+
     // Add advanced options if present
     if (customKasko) params.append('kasko', customKasko);
     if (customSigorta) params.append('sigorta', customSigorta);
@@ -94,6 +114,7 @@ export default function HesaplaPage() {
     if (customYakitFiyat) params.append('yakitFiyat', customYakitFiyat);
     if (customTuketim) params.append('yakitTuketim', customTuketim);
 
+    try { localStorage.setItem('gazbilir_last', JSON.stringify({ brand, model, variant, year, fuel, km })); } catch { }
     router.push(`/sonuc?${params.toString()}`);
   };
 
@@ -182,16 +203,23 @@ export default function HesaplaPage() {
                 {!hasVariants && (
                   <div className="form-group">
                     <label htmlFor="fuel" className="form-label">Yakıt Türü</label>
-                    <select id="fuel" className="form-select" value={fuel} onChange={handleFuel} disabled={!year}>
-                      <option value="">{year ? 'Seçin' : '—'}</option>
-                      {fuelTypes.map((f) => <option key={f} value={f}>{YAKIT_TURLERI[f]}</option>)}
-                    </select>
+                    {fuelTypes.length === 1 ? (
+                      <div className={styles.fuelAutoTag}>
+                        {YAKIT_TURLERI[fuelTypes[0]]}
+                        <span className={styles.fuelAutoLabel}>Otomatik</span>
+                      </div>
+                    ) : (
+                      <select id="fuel" className="form-select" value={fuel} onChange={handleFuel} disabled={!year}>
+                        <option value="">{year ? 'Seçin' : '—'}</option>
+                        {fuelTypes.map((f) => <option key={f} value={f}>{YAKIT_TURLERI[f]}</option>)}
+                      </select>
+                    )}
                   </div>
                 )}
               </div>
 
               {/* Row 3: Fuel (if variants existed, it shifts here) */}
-              {hasVariants && (
+              {hasVariants && fuelTypes.length !== 1 && (
                 <div className={styles.row}>
                   <div className="form-group">
                     <label htmlFor="fuel" className="form-label">Yakıt Türü</label>
@@ -233,19 +261,19 @@ export default function HesaplaPage() {
 
               {/* Advanced Options Accordion */}
               <div className={styles.advancedWrapper}>
-                <button 
-                  type="button" 
+                <button
+                  type="button"
                   className={styles.advancedToggle}
                   onClick={() => setShowAdvanced(!showAdvanced)}
                 >
                   <span className={styles.advancedIcon}>{showAdvanced ? '−' : '+'}</span>
                   Gelişmiş Seçenekler (İsteğe Bağlı)
                 </button>
-                
+
                 {showAdvanced && (
                   <div className={styles.advancedContent}>
                     <p className={styles.advancedHint}>Aşağıdaki alanları boş bırakırsanız sistem ortalama verileri kullanacaktır.</p>
-                    
+
                     <div className={styles.row}>
                       <div className="form-group">
                         <label htmlFor="kasko" className="form-label">Kasko (Yıllık TL)</label>
@@ -303,7 +331,7 @@ export default function HesaplaPage() {
               >
                 Maliyeti Hesapla
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M5 12h14M12 5l7 7-7 7"/>
+                  <path d="M5 12h14M12 5l7 7-7 7" />
                 </svg>
               </button>
             </form>

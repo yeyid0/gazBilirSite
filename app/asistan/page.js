@@ -4,7 +4,7 @@ import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import vehiclesData from '@/data/vehicles.json';
 import { calculateTotalCost, formatCurrency } from '@/lib/calculator';
-import { YAKIT_TURLERI, VARSAYILAN_AYLIK_KM } from '@/lib/constants';
+import { YAKIT_TURLERI, VARSAYILAN_AYLIK_KM, getYearList, getYearData } from '@/lib/constants';
 import AdSlot from '@/components/AdSlot/AdSlot';
 import BrandLogo from '@/components/BrandLogo/BrandLogo';
 import styles from './page.module.css';
@@ -21,10 +21,11 @@ export default function AsistanPage() {
     const list = [];
     Object.entries(vehiclesData.brands).forEach(([brandKey, brandObj]) => {
       Object.entries(brandObj.models).forEach(([modelKey, modelObj]) => {
-        const latestYear = Object.keys(modelObj.years).sort((a, b) => b - a)[0];
+        const latestYear = getYearList(modelObj.years)[0];
         if (!latestYear) return;
-        
-        const yearObj = modelObj.years[latestYear];
+
+        const yearObj = getYearData(modelObj.years, latestYear);
+        if (!yearObj) return;
         
         yearObj.fuelTypes.forEach(fuel => {
           if (!yearObj.consumption[fuel]) return;

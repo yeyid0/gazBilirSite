@@ -8,7 +8,7 @@ import fuelPricesData from '@/data/fuel-prices.json';
 import insuranceRatesData from '@/data/insurance-rates.json';
 import mtvRatesData from '@/data/mtv-rates.json';
 import { calculateTotalCost, formatCurrency, formatNumber, calculateProjection } from '@/lib/calculator';
-import { MALIYET_KALEMLERI, YAKIT_TURLERI } from '@/lib/constants';
+import { MALIYET_KALEMLERI, YAKIT_TURLERI, getYearData } from '@/lib/constants';
 import AdSlot from '@/components/AdSlot/AdSlot';
 import BrandLogo from '@/components/BrandLogo/BrandLogo';
 import Tooltip from '@/components/Tooltip/Tooltip';
@@ -71,9 +71,9 @@ function SonucContent() {
     const m = vehiclesData.brands[marka]?.models[model];
     if (!m) return null;
     if (varyant && m.variants && m.variants[varyant]) {
-      return m.variants[varyant].years[yil] || null;
+      return getYearData(m.variants[varyant].years, yil) || null;
     }
-    return m.years[yil] || null;
+    return getYearData(m.years, yil) || null;
   }, [marka, model, varyant, yil]);
 
   const vehicleSpecs = useMemo(() => {
@@ -86,6 +86,7 @@ function SonucContent() {
   const variantName = varyant ? vehiclesData.brands[marka]?.models[model]?.variants[varyant]?.name : '';
   const fullName = `${brandName} ${modelName} ${variantName}`.trim();
   const segment = vehiclesData.brands[marka]?.models[model]?.segment || 'C';
+  const shortReview = vehiclesData.brands[marka]?.models[model]?.short_review || '';
 
   const result = useMemo(() => {
     if (!vehicleData || !yakit) return null;
@@ -232,8 +233,19 @@ function SonucContent() {
     return { ...d, path, pct: ((d.value / chartTotal) * 100).toFixed(1) };
   });
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: `${fullName} ${yil} Yıllık Sahiplik Maliyeti — ${formatCurrency(result.total.yearly)}`,
+    description: `GazBilir ile hesaplanan ${fullName} ${yil} ${YAKIT_TURLERI[yakit]} aracının Türkiye'de tahmini yıllık toplam sahiplik maliyeti: ${formatCurrency(result.total.yearly)}.`,
+    author: { '@type': 'Organization', name: 'GazBilir' },
+    publisher: { '@type': 'Organization', name: 'GazBilir' },
+    dateModified: new Date().toISOString(),
+  };
+
   return (
     <div className={styles.page}>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <div className={styles.glow} />
       <div className="container">
         {/* Header */}
@@ -258,6 +270,19 @@ function SonucContent() {
               </div>
               <BrandLogo brandKey={marka} brandName={brandName} size={140} />
             </div>
+            {shortReview && (
+              <p style={{
+                marginTop: 'var(--sp-4)',
+                paddingTop: 'var(--sp-4)',
+                borderTop: '1px solid var(--border-subtle)',
+                fontSize: 'var(--text-sm)',
+                color: 'var(--text-secondary)',
+                lineHeight: 1.6,
+                fontStyle: 'italic',
+              }}>
+                {shortReview}
+              </p>
+            )}
           </div>
         </div>
 

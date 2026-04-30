@@ -7,817 +7,95 @@
         "corolla": {
           "name": "Corolla",
           "segment": "C",
+          "short_review": "Güvenilir hibrit sistemi, düşük arıza oranı ve yüksek ikinci el değeriyle Türkiye'de en gözde C-segment sedan konumundadır.",
           "years": {
-            "2015": {
+            "2019-2021": {
               "engineCC": 1798,
               "fuelTypes": [
-                "benzin",
                 "hibrit"
               ],
               "consumption": {
-                "benzin": 5.8,
                 "hibrit": 3.8
               },
               "hp": {
-                "benzin": 125,
                 "hibrit": 122
               },
               "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
                 "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
+                  "zeroTo100": "11.2",
+                  "maxSpeed": 180
                 }
               }
             },
-            "2016": {
-              "engineCC": 1798,
+            "2022-2025": {
+              "engineCC": 1987,
               "fuelTypes": [
-                "benzin",
                 "hibrit"
               ],
               "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
+                "hibrit": 4.3
               },
               "hp": {
-                "benzin": 125,
-                "hibrit": 122
+                "hibrit": 196
               },
               "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
                 "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1798,
-              "fuelTypes": [
-                "benzin",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 5.8,
-                "hibrit": 3.8
-              },
-              "hp": {
-                "benzin": 125,
-                "hibrit": 122
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.7",
-                  "maxSpeed": 205
-                },
-                "hibrit": {
-                  "zeroTo100": "12.0",
-                  "maxSpeed": 203
+                  "zeroTo100": "7.9",
+                  "maxSpeed": 180
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1335,
-            "trunkLiters": 471,
-            "tankLiters": 50,
+            "weightKg": 1375,
+            "trunkLiters": 217,
+            "tankLiters": 43,
             "length": 4630,
             "width": 1780,
             "height": 1435
           },
           "variants": {
-            "1.5 Vision": {
-              "name": "1.5 Vision",
+            "1.8 Hybrid 122": {
+              "name": "1.8 Hybrid 122",
               "years": {
-                "2015": {
-                  "engineCC": 1490,
+                "2019-2025": {
+                  "engineCC": 1798,
                   "fuelTypes": [
-                    "benzin"
+                    "hibrit"
                   ],
                   "consumption": {
-                    "benzin": 5.8
+                    "hibrit": 3.8
                   },
                   "hp": {
-                    "benzin": 125
+                    "hibrit": 122
                   },
                   "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1490,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.8
-                  },
-                  "hp": {
-                    "benzin": 125
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "11.7",
-                      "maxSpeed": 205
+                    "hibrit": {
+                      "zeroTo100": "11.2",
+                      "maxSpeed": 180
                     }
                   }
                 }
               }
             },
-            "1.8 Hybrid": {
-              "name": "1.8 Hybrid",
+            "2.0 GR Sport Hybrid 196": {
+              "name": "2.0 GR Sport Hybrid 196",
               "years": {
-                "2015": {
-                  "engineCC": 1798,
+                "2022-2025": {
+                  "engineCC": 1987,
                   "fuelTypes": [
                     "hibrit"
                   ],
                   "consumption": {
-                    "hibrit": 3.8
+                    "hibrit": 4.3
                   },
                   "hp": {
-                    "hibrit": 122
+                    "hibrit": 196
                   },
                   "performance": {
                     "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.8
-                  },
-                  "hp": {
-                    "hibrit": 122
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "12.0",
-                      "maxSpeed": 203
-                    }
-                  }
-                }
-              }
-            },
-            "1.8 Hybrid (Yeni)": {
-              "name": "1.8 Hybrid (Yeni)",
-              "years": {
-                "2015": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1798,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 4.5
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.5",
-                      "maxSpeed": 214
+                      "zeroTo100": "7.9",
+                      "maxSpeed": 180
                     }
                   }
                 }
@@ -1425,6 +703,24 @@
                   "maxSpeed": 200
                 }
               }
+            },
+            "2025": {
+              "engineCC": 1490,
+              "fuelTypes": [
+                "hibrit"
+              ],
+              "consumption": {
+                "hibrit": 4.4
+              },
+              "hp": {
+                "hibrit": 116
+              },
+              "performance": {
+                "hibrit": {
+                  "zeroTo100": "11.9",
+                  "maxSpeed": 200
+                }
+              }
             }
           },
           "specs": {
@@ -1958,6 +1254,24 @@
                       "maxSpeed": 207
                     }
                   }
+                },
+                "2025": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.5
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "11.1",
+                      "maxSpeed": 207
+                    }
+                  }
                 }
               }
             },
@@ -2127,6 +1441,24 @@
                   }
                 },
                 "2024": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6
+                  },
+                  "hp": {
+                    "benzin": 182
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "7.9",
+                      "maxSpeed": 239
+                    }
+                  }
+                },
+                "2025": {
                   "engineCC": 1498,
                   "fuelTypes": [
                     "benzin"
@@ -2328,6 +1660,24 @@
                       "maxSpeed": 202
                     }
                   }
+                },
+                "2025": {
+                  "engineCC": 1597,
+                  "fuelTypes": [
+                    "dizel"
+                  ],
+                  "consumption": {
+                    "dizel": 3.5
+                  },
+                  "hp": {
+                    "dizel": 120
+                  },
+                  "performance": {
+                    "dizel": {
+                      "zeroTo100": "11.9",
+                      "maxSpeed": 202
+                    }
+                  }
                 }
               }
             },
@@ -2497,6 +1847,24 @@
                   }
                 },
                 "2024": {
+                  "engineCC": 1993,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.7
+                  },
+                  "hp": {
+                    "hibrit": 143
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.0",
+                      "maxSpeed": 216
+                    }
+                  }
+                },
+                "2025": {
                   "engineCC": 1993,
                   "fuelTypes": [
                     "hibrit"
@@ -3118,12 +2486,322 @@
             }
           },
           "specs": {
-            "weightKg": 1100,
-            "trunkLiters": 300,
-            "tankLiters": 45,
-            "length": 4050,
-            "width": 1730,
-            "height": 1450
+            "weightKg": 1240,
+            "trunkLiters": 519,
+            "tankLiters": 40,
+            "length": 4553,
+            "width": 1748,
+            "height": 1467
+          },
+          "variants": {
+            "1.5 VTEC Turbo Elegance": {
+              "name": "1.5 VTEC Turbo Elegance",
+              "years": {
+                "2022": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2023": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2024": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2025": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                }
+              }
+            },
+            "1.5 VTEC Turbo Elegance Advance": {
+              "name": "1.5 VTEC Turbo Elegance Advance",
+              "years": {
+                "2022": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2023": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2024": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                },
+                "2025": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.4
+                  },
+                  "hp": {
+                    "benzin": 129
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.0",
+                      "maxSpeed": 210
+                    }
+                  }
+                }
+              }
+            },
+            "e:HEV Elegance": {
+              "name": "e:HEV Elegance",
+              "years": {
+                "2022": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2023": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2024": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2025": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                }
+              }
+            },
+            "e:HEV RS": {
+              "name": "e:HEV RS",
+              "years": {
+                "2022": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2023": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2024": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                },
+                "2025": {
+                  "engineCC": 1498,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 4.4
+                  },
+                  "hp": {
+                    "hibrit": 109
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                }
+              }
+            }
           }
         },
         "hrv": {
@@ -3379,1002 +3057,84 @@
         "clio": {
           "name": "Clio",
           "segment": "B",
+          "short_review": "Düşük yakıt tüketimi, zengin donanım ve güçlü ikinci el değeriyle Türkiye'nin en çok satan hatchback modelidir.",
           "years": {
-            "2015": {
-              "engineCC": 1461,
+            "2019-2025": {
+              "engineCC": 999,
               "fuelTypes": [
                 "benzin",
-                "dizel"
+                "hibrit"
               ],
               "consumption": {
                 "benzin": 5,
-                "dizel": 3.9
+                "hibrit": 4.6
               },
               "hp": {
-                "benzin": 90,
-                "dizel": 90
+                "benzin": 100,
+                "hibrit": 140
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
+                  "zeroTo100": "11.6",
+                  "maxSpeed": 188
                 },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2016": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5,
-                "dizel": 3.9
-              },
-              "hp": {
-                "benzin": 90,
-                "dizel": 90
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
-                },
-                "dizel": {
-                  "zeroTo100": "14.2",
-                  "maxSpeed": 184
+                "hibrit": {
+                  "zeroTo100": "10.5",
+                  "maxSpeed": 180
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1158,
+            "weightKg": 1095,
             "trunkLiters": 391,
-            "tankLiters": 42,
+            "tankLiters": 36,
             "length": 4050,
             "width": 1798,
             "height": 1440
           },
           "variants": {
-            "1.0 SCe": {
-              "name": "1.0 SCe",
+            "1.0 TCe 100": {
+              "name": "1.0 TCe 100",
               "years": {
-                "2015": {
+                "2019-2025": {
                   "engineCC": 999,
                   "fuelTypes": [
                     "benzin"
                   ],
                   "consumption": {
-                    "benzin": 4.9
+                    "benzin": 5
                   },
                   "hp": {
-                    "benzin": 65
+                    "benzin": 100
                   },
                   "performance": {
                     "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.9
-                  },
-                  "hp": {
-                    "benzin": 65
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "19.6",
-                      "maxSpeed": 169
+                      "zeroTo100": "11.6",
+                      "maxSpeed": 188
                     }
                   }
                 }
               }
             },
-            "1.0 TCe": {
-              "name": "1.0 TCe",
+            "E-Tech Hybrid 140": {
+              "name": "E-Tech Hybrid 140",
               "years": {
-                "2015": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5
-                  },
-                  "hp": {
-                    "benzin": 90
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.2",
-                      "maxSpeed": 184
-                    }
-                  }
-                }
-              }
-            },
-            "1.5 Blue dCi": {
-              "name": "1.5 Blue dCi",
-              "years": {
-                "2015": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "11.1",
-                      "maxSpeed": 199
-                    }
-                  }
-                }
-              }
-            },
-            "E-Tech Hybrid": {
-              "name": "E-Tech Hybrid",
-              "years": {
-                "2015": {
+                "2020-2025": {
                   "engineCC": 1598,
                   "fuelTypes": [
                     "hibrit"
                   ],
                   "consumption": {
-                    "hibrit": 3.6
+                    "hibrit": 4.6
                   },
                   "hp": {
                     "hibrit": 140
                   },
                   "performance": {
                     "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 3.6
-                  },
-                  "hp": {
-                    "hibrit": 140
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "9.1",
-                      "maxSpeed": 214
+                      "zeroTo100": "10.5",
+                      "maxSpeed": 180
                     }
                   }
                 }
@@ -4385,439 +3145,64 @@
         "megane": {
           "name": "Megane",
           "segment": "C",
+          "short_review": "1.3 TCe'nin yakıt ekonomisi ve geniş iç mekanıyla Türkiye'de uzun süre C-segment lideri olmuş, E-Tech Electric ile elektrifikasyona adım atıyor.",
           "years": {
-            "2015": {
-              "engineCC": 1461,
+            "2019-2022": {
+              "engineCC": 1332,
               "fuelTypes": [
-                "benzin",
-                "dizel"
+                "benzin"
               ],
               "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
+                "benzin": 6
               },
               "hp": {
-                "benzin": 140,
-                "dizel": 115
+                "benzin": 140
               },
               "performance": {
                 "benzin": {
                   "zeroTo100": "10.4",
                   "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
                 }
               }
             },
-            "2016": {
-              "engineCC": 1461,
+            "2022-2025": {
+              "engineCC": 0,
               "fuelTypes": [
-                "benzin",
-                "dizel"
+                "elektrik"
               ],
               "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
+                "elektrik": 16.2
               },
               "hp": {
-                "benzin": 140,
-                "dizel": 115
+                "elektrik": 220
               },
               "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 5.9,
-                "dizel": 4.1
-              },
-              "hp": {
-                "benzin": 140,
-                "dizel": 115
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.4",
-                  "maxSpeed": 214
-                },
-                "dizel": {
-                  "zeroTo100": "12.6",
-                  "maxSpeed": 199
+                "elektrik": {
+                  "zeroTo100": "7.4",
+                  "maxSpeed": 160
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1318,
-            "trunkLiters": 503,
+            "weightKg": 1320,
+            "trunkLiters": 384,
             "tankLiters": 50,
-            "length": 4632,
-            "width": 1814,
-            "height": 1443
+            "length": 4357,
+            "width": 1869,
+            "height": 1448
           },
           "variants": {
-            "1.3 TCe": {
-              "name": "1.3 TCe",
+            "1.3 TCe 140": {
+              "name": "1.3 TCe 140",
               "years": {
-                "2015": {
+                "2019-2022": {
                   "engineCC": 1332,
                   "fuelTypes": [
                     "benzin"
                   ],
                   "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
-                  },
-                  "hp": {
-                    "benzin": 140
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "10.4",
-                      "maxSpeed": 214
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1332,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.9
+                    "benzin": 6
                   },
                   "hp": {
                     "benzin": 140
@@ -4831,186 +3216,24 @@
                 }
               }
             },
-            "1.5 Blue dCi": {
-              "name": "1.5 Blue dCi",
+            "E-Tech Electric 220": {
+              "name": "E-Tech Electric 220",
               "years": {
-                "2015": {
-                  "engineCC": 1461,
+                "2022-2025": {
+                  "engineCC": 0,
                   "fuelTypes": [
-                    "dizel"
+                    "elektrik"
                   ],
                   "consumption": {
-                    "dizel": 4.1
+                    "elektrik": 16.2
                   },
                   "hp": {
-                    "dizel": 115
+                    "elektrik": 220
                   },
                   "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1461,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 115
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "12.6",
-                      "maxSpeed": 199
+                    "elektrik": {
+                      "zeroTo100": "7.4",
+                      "maxSpeed": 160
                     }
                   }
                 }
@@ -5921,343 +4144,67 @@
       "logo": "🚘",
       "models": {
         "egea": {
-          "name": "Egea",
+          "name": "Egea Sedan",
           "segment": "C",
+          "short_review": "Yedek parça ucuzluğu, geniş servis ağı ve 510L bagajıyla Türkiye'nin en akılcı sedan seçeneği olmayı sürdürmektedir.",
           "years": {
-            "2015": {
-              "engineCC": 1598,
+            "2015-2020": {
+              "engineCC": 1368,
               "fuelTypes": [
                 "benzin",
-                "dizel",
-                "hibrit"
+                "dizel"
               ],
               "consumption": {
                 "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
+                "dizel": 4.2
               },
               "hp": {
                 "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
+                "dizel": 95
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
+                  "zeroTo100": "13.0",
+                  "maxSpeed": 175
                 },
                 "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
+                  "zeroTo100": "12.0",
+                  "maxSpeed": 183
                 }
               }
             },
-            "2016": {
-              "engineCC": 1598,
+            "2020-2026": {
+              "engineCC": 999,
               "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
+                "benzin"
               ],
               "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
+                "benzin": 5.9
               },
               "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
+                "benzin": 100
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "hibrit"
-              ],
-              "consumption": {
-                "benzin": 6.5,
-                "dizel": 4.5,
-                "hibrit": 5
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 130,
-                "hibrit": 130
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "14.7",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
-                },
-                "hibrit": {
-                  "zeroTo100": "10.7",
-                  "maxSpeed": 208
+                  "zeroTo100": "11.3",
+                  "maxSpeed": 190
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1270,
-            "trunkLiters": 520,
-            "tankLiters": 50,
-            "length": 4532,
-            "width": 1792,
-            "height": 1497
+            "weightKg": 1175,
+            "trunkLiters": 510,
+            "tankLiters": 47,
+            "length": 4568,
+            "width": 1793,
+            "height": 1493
           },
           "variants": {
-            "1.4 Fire": {
-              "name": "1.4 Fire",
+            "1.4 Fire 95": {
+              "name": "1.4 Fire 95",
               "years": {
-                "2015": {
+                "2015-2020": {
                   "engineCC": 1368,
                   "fuelTypes": [
                     "benzin"
@@ -6270,725 +4217,54 @@
                   },
                   "performance": {
                     "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1368,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.5
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
+                      "zeroTo100": "13.0",
+                      "maxSpeed": 175
                     }
                   }
                 }
               }
             },
-            "1.3 Multijet": {
-              "name": "1.3 Multijet",
+            "1.3 Multijet 95": {
+              "name": "1.3 Multijet 95",
               "years": {
-                "2015": {
+                "2015-2020": {
                   "engineCC": 1248,
                   "fuelTypes": [
                     "dizel"
                   ],
                   "consumption": {
-                    "dizel": 4.1
+                    "dizel": 4.2
                   },
                   "hp": {
                     "dizel": 95
                   },
                   "performance": {
                     "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1248,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.1
-                  },
-                  "hp": {
-                    "dizel": 95
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "14.7",
-                      "maxSpeed": 187
+                      "zeroTo100": "12.0",
+                      "maxSpeed": 183
                     }
                   }
                 }
               }
             },
-            "1.6 Multijet": {
-              "name": "1.6 Multijet",
+            "1.0 FireFly 100": {
+              "name": "1.0 FireFly 100",
               "years": {
-                "2015": {
-                  "engineCC": 1598,
+                "2020-2026": {
+                  "engineCC": 999,
                   "fuelTypes": [
-                    "dizel"
+                    "benzin"
                   ],
                   "consumption": {
-                    "dizel": 4.5
+                    "benzin": 5.9
                   },
                   "hp": {
-                    "dizel": 130
+                    "benzin": 100
                   },
                   "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1598,
-                  "fuelTypes": [
-                    "dizel"
-                  ],
-                  "consumption": {
-                    "dizel": 4.5
-                  },
-                  "hp": {
-                    "dizel": 130
-                  },
-                  "performance": {
-                    "dizel": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                }
-              }
-            },
-            "1.5 T4 Hybrid": {
-              "name": "1.5 T4 Hybrid",
-              "years": {
-                "2015": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1469,
-                  "fuelTypes": [
-                    "hibrit"
-                  ],
-                  "consumption": {
-                    "hibrit": 5
-                  },
-                  "hp": {
-                    "hibrit": 130
-                  },
-                  "performance": {
-                    "hibrit": {
-                      "zeroTo100": "10.7",
-                      "maxSpeed": 208
+                    "benzin": {
+                      "zeroTo100": "11.3",
+                      "maxSpeed": 190
                     }
                   }
                 }
@@ -7642,6 +4918,64 @@
             "width": 1800,
             "height": 1850
           }
+        },
+        "egeacross": {
+          "name": "Egea Cross",
+          "segment": "B-SUV",
+          "short_review": "Yüksek taban klirensi, geniş iç hacmi ve uygun sahip olma maliyetiyle Türkiye'de uygun fiyatlı crossover arayanların gözdesidir.",
+          "years": {
+            "2020-2026": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.7
+              },
+              "hp": {
+                "benzin": 120
+              },
+              "performance": {
+                "benzin": {
+                  "zeroTo100": "10.8",
+                  "maxSpeed": 195
+                }
+              }
+            }
+          },
+          "specs": {
+            "weightKg": 1260,
+            "trunkLiters": 440,
+            "tankLiters": 47,
+            "length": 4267,
+            "width": 1788,
+            "height": 1555
+          },
+          "variants": {
+            "1.0 FireFly Turbo 120": {
+              "name": "1.0 FireFly Turbo 120",
+              "years": {
+                "2020-2026": {
+                  "engineCC": 999,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 5.7
+                  },
+                  "hp": {
+                    "benzin": 120
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "10.8",
+                      "maxSpeed": 195
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -7652,8 +4986,27 @@
         "polo": {
           "name": "Polo",
           "segment": "B",
+          "short_review": "Premium hissi, sağlam Avrupa yapım kalitesi ve güçlü ikinci el değeriyle Türkiye'de B-segmentte kalite arayanların vazgeçilmezidir.",
           "years": {
-            "2015": {
+            "2018-2021": {
+              "engineCC": 999,
+              "fuelTypes": [
+                "benzin"
+              ],
+              "consumption": {
+                "benzin": 5.1
+              },
+              "hp": {
+                "benzin": 95
+              },
+              "performance": {
+                "benzin": {
+                  "zeroTo100": "11.7",
+                  "maxSpeed": 189
+                }
+              }
+            },
+            "2022-2025": {
               "engineCC": 999,
               "fuelTypes": [
                 "benzin"
@@ -7662,397 +5015,52 @@
                 "benzin": 5.2
               },
               "hp": {
-                "benzin": 95
+                "benzin": 110
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2016": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 4.7,
-                "dizel": 3.8
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 4.7,
-                "dizel": 3.8
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin",
-                "dizel"
-              ],
-              "consumption": {
-                "benzin": 4.7,
-                "dizel": 3.8
-              },
-              "hp": {
-                "benzin": 95,
-                "dizel": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                },
-                "dizel": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 999,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 5.2
-              },
-              "hp": {
-                "benzin": 95
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "12.8",
-                  "maxSpeed": 187
+                  "zeroTo100": "9.9",
+                  "maxSpeed": 200
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1105,
+            "weightKg": 1095,
             "trunkLiters": 351,
             "tankLiters": 40,
-            "length": 4074,
+            "length": 4053,
             "width": 1751,
-            "height": 1451
+            "height": 1461
           },
           "variants": {
-            "1.0 MPI": {
-              "name": "1.0 MPI",
+            "1.0 TSI 95": {
+              "name": "1.0 TSI 95",
               "years": {
-                "2015": {
+                "2018-2025": {
                   "engineCC": 999,
                   "fuelTypes": [
                     "benzin"
                   ],
                   "consumption": {
-                    "benzin": 4.8
+                    "benzin": 5.1
                   },
                   "hp": {
-                    "benzin": 80
+                    "benzin": 95
                   },
                   "performance": {
                     "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 4.8
-                  },
-                  "hp": {
-                    "benzin": 80
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "15.2",
-                      "maxSpeed": 178
+                      "zeroTo100": "11.7",
+                      "maxSpeed": 189
                     }
                   }
                 }
               }
             },
-            "1.0 TSI": {
-              "name": "1.0 TSI",
+            "1.0 TSI 110": {
+              "name": "1.0 TSI 110",
               "years": {
-                "2015": {
+                "2022-2025": {
                   "engineCC": 999,
                   "fuelTypes": [
                     "benzin"
@@ -8061,359 +5069,12 @@
                     "benzin": 5.2
                   },
                   "hp": {
-                    "benzin": 95
+                    "benzin": 110
                   },
                   "performance": {
                     "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 999,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 5.2
-                  },
-                  "hp": {
-                    "benzin": 95
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "12.8",
-                      "maxSpeed": 187
-                    }
-                  }
-                }
-              }
-            },
-            "GTI": {
-              "name": "GTI",
-              "years": {
-                "2015": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2016": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2017": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2018": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2019": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2020": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2021": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2022": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2023": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
-                    }
-                  }
-                },
-                "2024": {
-                  "engineCC": 1984,
-                  "fuelTypes": [
-                    "benzin"
-                  ],
-                  "consumption": {
-                    "benzin": 6.1
-                  },
-                  "hp": {
-                    "benzin": 207
-                  },
-                  "performance": {
-                    "benzin": {
-                      "zeroTo100": "5.9",
-                      "maxSpeed": 254
+                      "zeroTo100": "9.9",
+                      "maxSpeed": 200
                     }
                   }
                 }
@@ -26113,335 +22774,160 @@
         "duster": {
           "name": "Duster",
           "segment": "B-SUV",
+          "short_review": "Bütçe dostu fiyatı, SUV pratikliği ve bol yedek parçasıyla Türkiye'de para-değer dengesinin sembolü haline gelmiştir.",
           "years": {
-            "2015": {
-              "engineCC": 1461,
+            "2020-2023": {
+              "engineCC": 1332,
               "fuelTypes": [
                 "benzin",
-                "dizel",
-                "lpg"
+                "dizel"
               ],
               "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
+                "benzin": 6.5,
+                "dizel": 4.4
               },
               "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
+                "benzin": 130,
+                "dizel": 115
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
+                  "zeroTo100": "10.5",
+                  "maxSpeed": 188
                 },
                 "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
+                  "zeroTo100": "11.7",
+                  "maxSpeed": 172
                 }
               }
             },
-            "2016": {
-              "engineCC": 1461,
+            "2024-2026": {
+              "engineCC": 1199,
               "fuelTypes": [
                 "benzin",
-                "dizel",
-                "lpg"
+                "hibrit"
               ],
               "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
+                "benzin": 6.3,
+                "hibrit": 5.2
               },
               "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
+                "benzin": 130,
+                "hibrit": 140
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
+                  "zeroTo100": "10.2",
+                  "maxSpeed": 185
                 },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2017": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2018": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2019": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2020": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2021": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2022": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2023": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1461,
-              "fuelTypes": [
-                "benzin",
-                "dizel",
-                "lpg"
-              ],
-              "consumption": {
-                "benzin": 6.1,
-                "dizel": 4.4,
-                "lpg": 6.8
-              },
-              "hp": {
-                "benzin": 125,
-                "dizel": 110,
-                "lpg": 100
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "11.0",
-                  "maxSpeed": 205
-                },
-                "dizel": {
-                  "zeroTo100": "12.5",
-                  "maxSpeed": 196
-                },
-                "lpg": {
-                  "zeroTo100": "13.8",
-                  "maxSpeed": 190
+                "hibrit": {
+                  "zeroTo100": "10.9",
+                  "maxSpeed": 160
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1250,
-            "trunkLiters": 380,
-            "tankLiters": 48,
-            "length": 4150,
-            "width": 1780,
-            "height": 1550
+            "weightKg": 1320,
+            "trunkLiters": 472,
+            "tankLiters": 50,
+            "length": 4340,
+            "width": 1817,
+            "height": 1694
+          },
+          "variants": {
+            "1.3 TCe 130": {
+              "name": "1.3 TCe 130",
+              "years": {
+                "2020-2023": {
+                  "engineCC": 1332,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.5
+                  },
+                  "hp": {
+                    "benzin": 130
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "10.5",
+                      "maxSpeed": 188
+                    }
+                  }
+                }
+              }
+            },
+            "1.5 Blue dCi 115": {
+              "name": "1.5 Blue dCi 115",
+              "years": {
+                "2020-2023": {
+                  "engineCC": 1461,
+                  "fuelTypes": [
+                    "dizel"
+                  ],
+                  "consumption": {
+                    "dizel": 4.4
+                  },
+                  "hp": {
+                    "dizel": 115
+                  },
+                  "performance": {
+                    "dizel": {
+                      "zeroTo100": "11.7",
+                      "maxSpeed": 172
+                    }
+                  }
+                }
+              }
+            },
+            "1.2 TCe 130 mHEV": {
+              "name": "1.2 TCe 130 mHEV",
+              "years": {
+                "2024-2026": {
+                  "engineCC": 1199,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 6.3
+                  },
+                  "hp": {
+                    "benzin": 130
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "10.2",
+                      "maxSpeed": 185
+                    }
+                  }
+                }
+              }
+            },
+            "1.6 E-Tech Hybrid 140": {
+              "name": "1.6 E-Tech Hybrid 140",
+              "years": {
+                "2024-2026": {
+                  "engineCC": 1598,
+                  "fuelTypes": [
+                    "hibrit"
+                  ],
+                  "consumption": {
+                    "hibrit": 5.2
+                  },
+                  "hp": {
+                    "hibrit": 140
+                  },
+                  "performance": {
+                    "hibrit": {
+                      "zeroTo100": "10.9",
+                      "maxSpeed": 160
+                    }
+                  }
+                }
+              }
+            }
           }
         },
         "sandero": {
@@ -27994,51 +24480,82 @@
         "t10x": {
           "name": "T10X",
           "segment": "C-SUV",
+          "short_review": "Türkiye'nin ilk yerli otomobili olarak güçlü devlet desteği, rekabetçi garanti koşulları ve yükselen marka bilinirliğiyle hızla pazar payı kazanmaktadır.",
           "years": {
-            "2023": {
+            "2023-2026": {
               "engineCC": 0,
               "fuelTypes": [
                 "elektrik"
               ],
               "consumption": {
-                "elektrik": 16.7
+                "elektrik": 17
               },
               "hp": {
-                "elektrik": 218
+                "elektrik": 400
               },
               "performance": {
                 "elektrik": {
-                  "zeroTo100": "10.8",
-                  "maxSpeed": 261
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 0,
-              "fuelTypes": [
-                "elektrik"
-              ],
-              "consumption": {
-                "elektrik": 16.7
-              },
-              "hp": {
-                "elektrik": 218
-              },
-              "performance": {
-                "elektrik": {
-                  "zeroTo100": "10.8",
-                  "maxSpeed": 261
+                  "zeroTo100": "4.8",
+                  "maxSpeed": 180
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 2150,
-            "trunkLiters": 441,
-            "tankLiters": 0,
-            "length": 4599,
-            "width": 1886,
-            "height": 1676
+            "weightKg": 2100,
+            "trunkLiters": 422,
+            "tankLiters": 89,
+            "length": 4559,
+            "width": 1900,
+            "height": 1661
+          },
+          "variants": {
+            "RWD 200": {
+              "name": "RWD 200",
+              "years": {
+                "2023-2026": {
+                  "engineCC": 0,
+                  "fuelTypes": [
+                    "elektrik"
+                  ],
+                  "consumption": {
+                    "elektrik": 16.5
+                  },
+                  "hp": {
+                    "elektrik": 200
+                  },
+                  "performance": {
+                    "elektrik": {
+                      "zeroTo100": "7.6",
+                      "maxSpeed": 180
+                    }
+                  }
+                }
+              }
+            },
+            "AWD 400": {
+              "name": "AWD 400",
+              "years": {
+                "2023-2026": {
+                  "engineCC": 0,
+                  "fuelTypes": [
+                    "elektrik"
+                  ],
+                  "consumption": {
+                    "elektrik": 18
+                  },
+                  "hp": {
+                    "elektrik": 400
+                  },
+                  "performance": {
+                    "elektrik": {
+                      "zeroTo100": "4.8",
+                      "maxSpeed": 180
+                    }
+                  }
+                }
+              }
+            }
           }
         },
         "t10f": {
@@ -28841,51 +25358,59 @@
         "tiggo8pro": {
           "name": "Tiggo 8 Pro",
           "segment": "D-SUV",
+          "short_review": "658L bagajı, 7 koltuk seçeneği ve bütçe dostu konumlandırmasıyla Türkiye'de premium SUV alternatifi arayanların radarına girmiştir.",
           "years": {
-            "2023": {
+            "2022-2026": {
               "engineCC": 1598,
               "fuelTypes": [
                 "benzin"
               ],
               "consumption": {
-                "benzin": 7.6
+                "benzin": 8.5
               },
               "hp": {
-                "benzin": 183
+                "benzin": 197
               },
               "performance": {
                 "benzin": {
-                  "zeroTo100": "10.8",
-                  "maxSpeed": 240
-                }
-              }
-            },
-            "2024": {
-              "engineCC": 1598,
-              "fuelTypes": [
-                "benzin"
-              ],
-              "consumption": {
-                "benzin": 7.6
-              },
-              "hp": {
-                "benzin": 183
-              },
-              "performance": {
-                "benzin": {
-                  "zeroTo100": "10.8",
-                  "maxSpeed": 240
+                  "zeroTo100": "9.5",
+                  "maxSpeed": 200
                 }
               }
             }
           },
           "specs": {
-            "weightKg": 1800,
-            "trunkLiters": 600,
-            "tankLiters": 65,
-            "length": 4700,
-            "width": 1890,
-            "height": 1680
+            "weightKg": 1718,
+            "trunkLiters": 658,
+            "tankLiters": 55,
+            "length": 4722,
+            "width": 1860,
+            "height": 1738
+          },
+          "variants": {
+            "1.6 TGDI 197": {
+              "name": "1.6 TGDI 197",
+              "years": {
+                "2022-2026": {
+                  "engineCC": 1598,
+                  "fuelTypes": [
+                    "benzin"
+                  ],
+                  "consumption": {
+                    "benzin": 8.5
+                  },
+                  "hp": {
+                    "benzin": 197
+                  },
+                  "performance": {
+                    "benzin": {
+                      "zeroTo100": "9.5",
+                      "maxSpeed": 200
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }

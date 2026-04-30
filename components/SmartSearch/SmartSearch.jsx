@@ -3,7 +3,7 @@
 import { useState, useMemo, useRef, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import vehiclesData from '@/data/vehicles.json';
-import { YAKIT_TURLERI } from '@/lib/constants';
+import { YAKIT_TURLERI, getYearList, getYearData } from '@/lib/constants';
 import logosData from '@/data/logos.json';
 import styles from './SmartSearch.module.css';
 
@@ -23,8 +23,10 @@ export default function SmartSearch() {
       Object.entries(brand.models).forEach(([modelSlug, model]) => {
         if (model.variants && Object.keys(model.variants).length > 0) {
           Object.entries(model.variants).forEach(([variantSlug, variantData]) => {
-            const latestYear = Object.keys(variantData.years).sort((a, b) => b - a)[0];
-            const yearData = variantData.years[latestYear];
+            const latestYear = getYearList(variantData.years)[0];
+            if (!latestYear) return;
+            const yearData = getYearData(variantData.years, latestYear);
+            if (!yearData) return;
             yearData.fuelTypes.forEach(fuel => {
               items.push({
                 brandSlug,
@@ -44,8 +46,10 @@ export default function SmartSearch() {
             });
           });
         } else {
-          const latestYear = Object.keys(model.years).sort((a, b) => b - a)[0];
-          const yearData = model.years[latestYear];
+          const latestYear = getYearList(model.years)[0];
+          if (!latestYear) return;
+          const yearData = getYearData(model.years, latestYear);
+          if (!yearData) return;
           yearData.fuelTypes.forEach(fuel => {
             items.push({
               brandSlug,
@@ -163,7 +167,7 @@ export default function SmartSearch() {
         <div className={styles.dropdown} ref={listRef}>
           {results.map((item, i) => (
             <button
-              key={`${item.brandSlug}-${item.modelSlug}-${item.fuel}`}
+              key={`${item.brandSlug}-${item.modelSlug}-${item.variantSlug || ''}-${item.fuel}`}
               className={`${styles.result} ${i === highlighted ? styles.resultActive : ''}`}
               onClick={() => goToResult(item)}
               onMouseEnter={() => setHighlighted(i)}

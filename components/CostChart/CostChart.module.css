@@ -27,6 +27,8 @@
 .chartContainer {
   height: 300px;
   width: 100%;
+  min-height: 0;
+  min-width: 0;
 }
 
 /* Tooltip Styles */

@@ -379,8 +379,8 @@ function KarsilastirContent({ brandsData }) {
               <div className={`${styles.cRow} ${styles.cRowHeader}`}>
                 <div className={`${styles.cCol} ${styles.cColLeft}`}>
                   {resultA ? (
-                    <div className={styles.cVehicleHeader}>
-                      <BrandLogo brandKey={carA.brand} brandName={brandsData[carA.brand]?.name} size={48} />
+                    <div className={`${styles.cVehicleHeader} ${styles.cVehicleHeaderLeft}`}>
+                      <BrandLogo brandKey={carA.brand} brandName={brandsData[carA.brand]?.name} className={styles.cVehicleLogo} size={48} />
                       <div className={`${styles.cVehicleName} ${styles.cVehicleNameLeft}`}>
                         <span>{getDisplayName(carA)}</span>
                         <span className={styles.cVehicleMeta}>
@@ -395,8 +395,8 @@ function KarsilastirContent({ brandsData }) {
                 <div className={`${styles.cCol} ${styles.cColCenter}`}><span className={styles.cVs}>VS</span></div>
                 <div className={`${styles.cCol} ${styles.cColRight}`}>
                   {resultB ? (
-                    <div className={styles.cVehicleHeader} style={{ flexDirection: 'row-reverse' }}>
-                      <BrandLogo brandKey={carB.brand} brandName={brandsData[carB.brand]?.name} size={48} />
+                    <div className={`${styles.cVehicleHeader} ${styles.cVehicleHeaderRight}`}>
+                      <BrandLogo brandKey={carB.brand} brandName={brandsData[carB.brand]?.name} className={styles.cVehicleLogo} size={48} />
                       <div className={`${styles.cVehicleName} ${styles.cVehicleNameRight}`}>
                         <span>{getDisplayName(carB)}</span>
                         <span className={styles.cVehicleMeta}>
